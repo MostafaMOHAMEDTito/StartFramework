@@ -1,0 +1,7 @@
+.container .navbar-brand {
+  font-size: 40px;
+}
+.navbar {
+  z-index: 99;
+
+}
